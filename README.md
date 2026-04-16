@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Cloud Engineer Professional</a>
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/tylertbrice12-hue"></a> <a href="https://www.linkedin.com/in/tyler-brice007/"> Aspiring Cloud Engineer Professional</a>
 
 <h2> About Me </h2>
 <b> I am an aspiring Cloud Engineer currently pursing AWS certifications, with hands-on experience building and deploying scalable cloud solutions. My experience includes compute and networking (Amazon EC2, VPC), storage solutions (Amazon S3, S3 Glacier), Serverless and application integration (AWS Lambda, Amazon DynamoDB), as well as monitoring and security using Amazon CloudWatch and IAM.</b>
