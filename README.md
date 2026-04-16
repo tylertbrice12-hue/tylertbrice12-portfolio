@@ -1,5 +1,8 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1"> Aspiring Cloud Practitionor</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Cloud Engineer Professional</a>, 
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Cloud Engineer Professional</a>
 
+<h2> About Me </h2>
+<b> I am an aspiring cloud engineer currently pursing AWS certifications, with hands-on experience building and deploying scalable cloud solutions using Amazon S3, EC2, and CloudFront.</b>
+  
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
 - <b>Amazon S3 + CloudFront website</b>
@@ -11,8 +14,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>
-- <b>
+
 
 
 
